@@ -1,0 +1,621 @@
+{
+  "collected_at": "2026-10-20",
+  "business": {
+    "name": "Тефити",
+    "address": "Краснодар, Красная улица, 98",
+    "yandex_id": "73006262346",
+    "url": "https://yandex.ru/maps/org/tefiti/73006262346/"
+  },
+  "files": [
+    {
+      "file": "photos/tefiti-01.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/16451045/2a000001999c15991d16e788c8f5f289bca8/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 141257,
+      "sha256": "343e6e54cb7036d4209de70feeb7890a93fb2c53025189716d51793ec6a8726c"
+    },
+    {
+      "file": "photos/tefiti-02.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/13754922/2a00000192f8eb490e630b585fe3afe04387/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 305581,
+      "sha256": "cb9bf1ed57173af19916836ad54819fe34acb908af10648094a7c8ef09202504"
+    },
+    {
+      "file": "photos/tefiti-03.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/15031174/2a000001987f14592eb2b57b27a866678295/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 217710,
+      "sha256": "0d1b24f31cb45ed21c7a8284fbf1e5837d2f60dbef674f4af9a4040da22e975f"
+    },
+    {
+      "file": "photos/tefiti-04.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/16130837/2a0000019b131b590778b7dd38d14a32f630/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 117083,
+      "sha256": "97962a1a5e60c1bfca175a0b194ab55fde022601e84bfd04a3eedf17d8031113"
+    },
+    {
+      "file": "photos/tefiti-05.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/16454077/2a0000019b131b5512731235af1f33a53baa/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 254604,
+      "sha256": "fa2b053a4b05ff72b75c358735235884a02e134a9e4f0339fdb96f6190b5577e"
+    },
+    {
+      "file": "photos/tefiti-06.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/14664328/2a00000196f3dadbed448be704713a2a5c13/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 246115,
+      "sha256": "1e50faba991ce7ceb3b0c3f8ca90484e278b402a0064258fe25ddc6e01bc8fdd"
+    },
+    {
+      "file": "photos/tefiti-07.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/19555209/2a0000019c5fc482ffa0044790ba092efbbc/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 270119,
+      "sha256": "6268f67ed60a26eba5d7a8bde2e852dfe466290dfae908e35103ef5f7983eefc"
+    },
+    {
+      "file": "photos/tefiti-08.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/16503558/2a00000197a8ab7f80de90c3546f2c08b0ce/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 166187,
+      "sha256": "e221ee986d445b3a8b6ae1a9142c7d35f66e7782680c6a9736bd95823b861834"
+    },
+    {
+      "file": "photos/tefiti-09.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/16157592/2a00000199f3619ad05a28c4db2f106dfdd4/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 225732,
+      "sha256": "649da6b5dc387e508ec69fed30b1ac0018f66abaf928d2b8530a1cd4eb95bc3d"
+    },
+    {
+      "file": "photos/tefiti-10.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/15401366/2a00000194a39e6e3cb774c54fb63eb86aa7/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 182350,
+      "sha256": "e23e2e8532bf312f219ae8e179f744fa3807cb2288d42a847dd1209e07a12b2b"
+    },
+    {
+      "file": "menu/photos/menu-01.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/14793643/2a000001959489ccbeb7ee7491d2a248895c/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 94449,
+      "sha256": "ecd868c64f8d396387bcd2d476f87f8c490dc461f0ca55b58976f89f10d15b77"
+    },
+    {
+      "file": "menu/photos/menu-02.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/13322921/2a00000194dbad3344139fd8eae1b173f8b8/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 131781,
+      "sha256": "c66345dd18b133c8b7e4944c2e2190b0ac3fe0abc3b60e6f207993fd218b9619"
+    },
+    {
+      "file": "menu/photos/menu-03.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/21039103/2a000001a00b48434d621cba5e2427326a5e/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 191880,
+      "sha256": "1ebc274d6bd7ea5cafae2b137a90c5d0537d88554466958bfc03bf1e7debd1ff"
+    },
+    {
+      "file": "menu/photos/menu-04.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-altay/13789674/2a000001a00b4844a5184b4e079762ed2a9a/XXXL",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "title": null,
+      "format": "jpeg",
+      "bytes": 173690,
+      "sha256": "9cdffc01cf398e7b23c0890cb5344264031c87bb87e47ce727629b4573d46446"
+    },
+    {
+      "file": "menu/items/dessert-01.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-sprav-products/1540730/2a0000019543732c269ac13977ceaed52214/orig",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/menu/",
+      "title": "Наполеон",
+      "format": "jpeg",
+      "bytes": 560077,
+      "sha256": "d8a6e99db80ee5039a7cb48939acb0b6c349dcec564f444589b2db27965ccd5c"
+    },
+    {
+      "file": "menu/items/dessert-02.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-sprav-products/20222640/2a0000019dafbb65486fea2da9b00e003fca/orig",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/menu/",
+      "title": "Пирожное картошка",
+      "format": "jpeg",
+      "bytes": 2028599,
+      "sha256": "40903b838e3ff5b40ed157a5013efe96479d9f02fc92a981b3a737fccb09a150"
+    },
+    {
+      "file": "menu/items/dessert-03.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-sprav-products/13852611/2a00000195437461dc5f159d092a47862628/orig",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/menu/",
+      "title": "Лимонный тарт",
+      "format": "jpeg",
+      "bytes": 445628,
+      "sha256": "bcf66326663a7822a8b2a9c65f9c33aa42409532b8056dff915bc7fcba157e19"
+    },
+    {
+      "file": "menu/items/dessert-04.webp",
+      "download_url": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a00000195437548e98fbb100cb1cdc5d78e/orig",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/menu/",
+      "title": "Тирамису",
+      "format": "webp",
+      "bytes": 20174,
+      "sha256": "30ad859d116022deef815314f1d14e70d968f12ab8750de76899e49704a44a1d"
+    },
+    {
+      "file": "menu/items/dessert-05.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019d59d60214c54d220df7d76378ce/orig",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/menu/",
+      "title": "Корпусный десерт \"Вишня\"",
+      "format": "jpeg",
+      "bytes": 143798,
+      "sha256": "bf06758405cc6825092937b8daaa058ab1b29702e8a6a5e2a61f758e7c092a42"
+    },
+    {
+      "file": "menu/items/dessert-06.jpg",
+      "download_url": "https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000019d59d6ad5e7ba436e0e42117a235/orig",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/menu/",
+      "title": "Корпусный десерт \"Персик\"",
+      "format": "jpeg",
+      "bytes": 165547,
+      "sha256": "e8fe1b41a163a4c7ea056f4abb1a3874cf29ce62eeca552d877fe78fcfc0a8eb"
+    },
+    {
+      "file": "menu/items/delivery-01.jpg",
+      "download_url": "https://eda.yandex/images/14790567/7fdfb1e49b594ed590e3e2073d012760-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Латте",
+      "format": "jpeg",
+      "bytes": 14002,
+      "sha256": "82f33b144bbd79658103e67fa7e94221931de18e16bb49e6fce5dce2309efd29"
+    },
+    {
+      "file": "menu/items/delivery-02.jpg",
+      "download_url": "https://eda.yandex/images/14908628/af053efa13d4443d8fb41efcc25335a2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Капучино",
+      "format": "jpeg",
+      "bytes": 10629,
+      "sha256": "978b0d345fe671234477a3f253f0c25a744839ee3b754ce88c903d3e6b43eabd"
+    },
+    {
+      "file": "menu/items/delivery-03.jpg",
+      "download_url": "https://eda.yandex/images/15441079/dde7ed234700403b8f144170e45a1e0e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Раф Халва",
+      "format": "jpeg",
+      "bytes": 6444,
+      "sha256": "14ac0a7cbaa676c7c80bf19bdc882a73f16edc065cfb66c033336b6a02d09516"
+    },
+    {
+      "file": "menu/items/delivery-04.jpg",
+      "download_url": "https://eda.yandex/images/14921544/5161e63772b649ea87659ee922b2f835-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Теф",
+      "format": "jpeg",
+      "bytes": 13975,
+      "sha256": "0d5dc2ec6d4e2fcc2fdf5727966387b5c3d6e5288da4d91cdecb9ee0e55156b9"
+    },
+    {
+      "file": "menu/items/delivery-05.jpg",
+      "download_url": "https://eda.yandex/images/14855449/00f448497e474920b931c526b5b186e6-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Сырники мак-банан-сгущенка",
+      "format": "jpeg",
+      "bytes": 22233,
+      "sha256": "6cc383917e654fa9acf7e4b7a530f551d6d6689cfef5f504cc69b2baaec12320"
+    },
+    {
+      "file": "menu/items/delivery-06.jpg",
+      "download_url": "https://eda.yandex/images/20380622/78d0b0a896644b8dbca3c855ed56b447-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Пирожное картошка",
+      "format": "jpeg",
+      "bytes": 17512,
+      "sha256": "a7f2d3b3e0697208b1842b43b5ec0b7074803540b20a961735619b6aba5ac704"
+    },
+    {
+      "file": "menu/items/delivery-07.jpg",
+      "download_url": "https://eda.yandex/images/16321539/db4bf02a3ced4f4e921b9d7f4e77594c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Айс-латте",
+      "format": "jpeg",
+      "bytes": 17312,
+      "sha256": "9b927daa7b76d2652288bbcb1997185bb132ee3c36f2f3250524fa72468a5a15"
+    },
+    {
+      "file": "menu/items/delivery-08.jpg",
+      "download_url": "https://eda.yandex/images/16289781/193576bf52ab48cf8d06f57eef36f47b-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Салат Цезарь",
+      "format": "jpeg",
+      "bytes": 25872,
+      "sha256": "01399f41d7ad428ab20a782b67af9d73abc3458335ef711b05fc8a783817552e"
+    },
+    {
+      "file": "menu/items/delivery-09.jpg",
+      "download_url": "https://eda.yandex/images/15382203/eca2146296fe4ba38898dc07b4d9e895-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Смузи яблоко-манго-апельсин",
+      "format": "jpeg",
+      "bytes": 10243,
+      "sha256": "77f5bdcd98472d46a12ad3e4cad9b9d96bbaa5ade7ac161df1db37e82f1c45c3"
+    },
+    {
+      "file": "menu/items/delivery-10.jpg",
+      "download_url": "https://eda.yandex/images/14921544/9b7af50558884f39aac6667f4cba239f-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Смузи клубника-банан",
+      "format": "jpeg",
+      "bytes": 12695,
+      "sha256": "77caecc4cf97f51535c2ffafc8345e954dc0af694a6d2a488d8080d71b2275c6"
+    },
+    {
+      "file": "menu/items/delivery-11.jpg",
+      "download_url": "https://eda.yandex/images/15143849/6de52643aafc4c129ca29553baa69aea-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Милкшейк Клубника-роза",
+      "format": "jpeg",
+      "bytes": 6643,
+      "sha256": "1952919f81b75d2f8498430579d232f2b6830d4b0aa7ba96cdb4d68489fc03f1"
+    },
+    {
+      "file": "menu/items/delivery-14.jpg",
+      "download_url": "https://eda.yandex/images/15143849/23899f60be354224a468c76816dda71c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Раф груша-дорблю",
+      "format": "jpeg",
+      "bytes": 8498,
+      "sha256": "19cfdfaca341e2447019ae7730a786f4a4c59e3492dfb444fb280e67836c12f5"
+    },
+    {
+      "file": "menu/items/delivery-15.jpg",
+      "download_url": "https://eda.yandex/images/14921544/d6359b86c6344f4685a8a645920950a2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Раф Табак-ваниль",
+      "format": "jpeg",
+      "bytes": 12098,
+      "sha256": "671874b94d7f7f82f0f88c8e6eb75774556cfade72c08de1788aebe977ea0a0f"
+    },
+    {
+      "file": "menu/items/delivery-16.jpg",
+      "download_url": "https://eda.yandex/images/15437042/7d7d882128fa4440a72b865060a968de-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Латте Апельсин-пломбир",
+      "format": "jpeg",
+      "bytes": 12645,
+      "sha256": "151d9892d8f6669b98d2e9a78a5911dc88ec494714898f0ce4072682a1347c6e"
+    },
+    {
+      "file": "menu/items/delivery-17.jpg",
+      "download_url": "https://eda.yandex/images/15441079/d2e57a8308d242608c7ba727c5394c38-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Латте фисташка",
+      "format": "jpeg",
+      "bytes": 13735,
+      "sha256": "6dfc28ba2b9c3e9a0083b38f29841409bdd680f2df94034cfeb37de16c2257dc"
+    },
+    {
+      "file": "menu/items/delivery-18.jpg",
+      "download_url": "https://eda.yandex/images/15143849/da72875151494d54826baa765e55864d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Бамбл",
+      "format": "jpeg",
+      "bytes": 11805,
+      "sha256": "2c5b7a98d4834d03dddbfbf479c61813620f27d8fe7f970bd36c3a25192fe8e7"
+    },
+    {
+      "file": "menu/items/delivery-19.jpg",
+      "download_url": "https://eda.yandex/images/14571459/df27794e15324d0187518ea2974098ac-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Айс матча тоник",
+      "format": "jpeg",
+      "bytes": 16291,
+      "sha256": "6d1d3da24bbe433ea0e2ba6b51d65fa025cb4eae4f4d5e20beffde8aefa2f5c1"
+    },
+    {
+      "file": "menu/items/delivery-20.jpg",
+      "download_url": "https://eda.yandex/images/13802765/49535027627e4d6487fae83c17e4cc94-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Эспрессо-тоник",
+      "format": "jpeg",
+      "bytes": 15310,
+      "sha256": "f358fb0006a9b5bc9a508f00a021a550a24fd7c9941847e315b766141d10c663"
+    },
+    {
+      "file": "menu/items/delivery-21.jpg",
+      "download_url": "https://eda.yandex/images/15441079/676aa4fb8be6453d94295ccf4a2b4f3e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Лимонад манго-маракуя",
+      "format": "jpeg",
+      "bytes": 13466,
+      "sha256": "cb5ca77740d9dd7ae87afc1f31dd1c08146be5effb1bc3b56c6352736c14a6cb"
+    },
+    {
+      "file": "menu/items/delivery-22.jpg",
+      "download_url": "https://eda.yandex/images/13802765/f21e25f9fb7c457f8918170400fb8908-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Классический лимонад",
+      "format": "jpeg",
+      "bytes": 8122,
+      "sha256": "2b1c9ddabc4982690d658df0a34cc125ab6f7b872ca147e7fbf479c0b18c90f8"
+    },
+    {
+      "file": "menu/items/delivery-23.jpg",
+      "download_url": "https://eda.yandex/images/14790567/9f4b99b95ca64a65834c50e8b93f3462-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Айс матча",
+      "format": "jpeg",
+      "bytes": 14429,
+      "sha256": "990ca51c4e3e6c0572912e27d29a78d6dabd95f54bb0713da2e300deaf13ec89"
+    },
+    {
+      "file": "menu/items/delivery-24.jpg",
+      "download_url": "https://eda.yandex/images/14046028/04675c56e6da4b3fbae8bdc94dbc0a7a-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Облепиховый чай",
+      "format": "jpeg",
+      "bytes": 15279,
+      "sha256": "744b197ceda690ffc0c3886d4f84f769214acbb658efb00d76d7dda59f3269ae"
+    },
+    {
+      "file": "menu/items/delivery-25.jpg",
+      "download_url": "https://eda.yandex/images/13802765/92056f5a7eeb483d90cf528ebc10388e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Раф Классический",
+      "format": "jpeg",
+      "bytes": 6134,
+      "sha256": "940ab201f687e33aef62f021c5f15ecefdfe498337ddbc8d7f27b198368b1937"
+    },
+    {
+      "file": "menu/items/delivery-26.jpg",
+      "download_url": "https://eda.yandex/images/14046028/1599836ec042465a9d373f89eb9990a4-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Какао",
+      "format": "jpeg",
+      "bytes": 9945,
+      "sha256": "ffb64cfc05e8f6c8474cf369296fa8710ed4ede750bbdb280265638965e69b8e"
+    },
+    {
+      "file": "menu/items/delivery-27.jpg",
+      "download_url": "https://eda.yandex/images/13802765/651a2158f87547199113c0a78b0254ac-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Американо",
+      "format": "jpeg",
+      "bytes": 12010,
+      "sha256": "692ba9e9d26f4222bcecaf7100aa1ca202d3dec10ee786f5ebff4bf859091478"
+    },
+    {
+      "file": "menu/items/delivery-28.jpg",
+      "download_url": "https://eda.yandex/images/15660005/34a14f62db5e4617b6d03a4d30baff7d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Матча латте",
+      "format": "jpeg",
+      "bytes": 20655,
+      "sha256": "a9ca2210e2e8744d4fb47e91199b23b7f0cad851e2d4772283f73d6a3b0fb49d"
+    },
+    {
+      "file": "menu/items/delivery-32.jpg",
+      "download_url": "https://eda.yandex/images/14440961/cdd4f1cc609f4c7eb058edd25ebd481c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Медовик",
+      "format": "jpeg",
+      "bytes": 17914,
+      "sha256": "f47a8281d8e69c0cb1dee399e0365ec4156fa192c48994b33452c49915955d21"
+    },
+    {
+      "file": "menu/items/delivery-33.jpg",
+      "download_url": "https://eda.yandex/images/17742006/16cf6c8cf4744a9bb28424d4e0408e0d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Трубочка со сгущёнкой",
+      "format": "jpeg",
+      "bytes": 15000,
+      "sha256": "6e5e01df77f0dad0e3896065e057e0576a09b1337b87fb2d04890460d2e9553c"
+    },
+    {
+      "file": "menu/items/delivery-34.jpg",
+      "download_url": "https://eda.yandex/images/14908628/80c6d0f3b2d44972be06920791849f5d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Тирамису",
+      "format": "jpeg",
+      "bytes": 16961,
+      "sha256": "1b0cc761429bcde6becb0e63f0a7129c15c75c1e873571a958c19faf91c0febc"
+    },
+    {
+      "file": "menu/items/delivery-35.jpg",
+      "download_url": "https://eda.yandex/images/16473711/72ba8fae9c3f4a9e85c11567c69e31cd-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Шоколадный кукис",
+      "format": "jpeg",
+      "bytes": 29528,
+      "sha256": "11e31e23c89a80096b8ba6f8d546f8555df2c36b091b7ef409066ef0893561c0"
+    },
+    {
+      "file": "menu/items/delivery-36.jpg",
+      "download_url": "https://eda.yandex/images/14440961/6b5b745864f14c6ebd417ba9b32b7e0c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Лимонный тарт",
+      "format": "jpeg",
+      "bytes": 11900,
+      "sha256": "16fadf4f849cfcbae0ca00112820c2b86fb9b2b6dd6c88bb83701ee538d77866"
+    },
+    {
+      "file": "menu/items/delivery-37.jpg",
+      "download_url": "https://eda.yandex/images/14659792/0f0cfd3c0c0d40858c865ed8d75813af-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Наполеон",
+      "format": "jpeg",
+      "bytes": 21652,
+      "sha256": "f562aa124bcccc828982286890b64c6321468735e1b2b2dc01c0a5edc7f5b0fe"
+    },
+    {
+      "file": "menu/items/delivery-38.jpg",
+      "download_url": "https://eda.yandex/images/16321539/2bb4af5edb1f4befa0aef914eebb53dd-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Теф Нутелла",
+      "format": "jpeg",
+      "bytes": 16270,
+      "sha256": "bace629aa447aaf42917b080723b2c09973c113b620e44f5c2bc5670c6e7eee5"
+    },
+    {
+      "file": "menu/items/delivery-39.jpg",
+      "download_url": "https://eda.yandex/images/19853791/691b8e27fd724e37a8b75c425726f5fe-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Донат-кейк Груша-пекан",
+      "format": "jpeg",
+      "bytes": 11443,
+      "sha256": "dc9d2bf7524ccf89c63804881a90e8c06babe145eef1b3aab260a21f9f4ac7c1"
+    },
+    {
+      "file": "menu/items/delivery-40.jpg",
+      "download_url": "https://eda.yandex/images/21597040/de7a16bd38a14ab4ac6dab31158da1d2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Донат-кейк Шоколад Черный кунжут",
+      "format": "jpeg",
+      "bytes": 16268,
+      "sha256": "0e9f9bd4d8bbef12a8372ed1eef0c532ee83f51acdf09a575ea9122d46cd4395"
+    },
+    {
+      "file": "menu/items/delivery-41.jpg",
+      "download_url": "https://eda.yandex/images/17635794/f6fd8a5bfc2b4de291ea5f7529d323de-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Печенье «Красный бархат»",
+      "format": "jpeg",
+      "bytes": 27980,
+      "sha256": "8d45cc3c2cdc5a9c23b7b2c316f709893f83a5f6632ea37b6f40e65d2dd45a75"
+    },
+    {
+      "file": "menu/items/delivery-42.jpg",
+      "download_url": "https://eda.yandex/images/14440961/c2aacd12818c488cb6a08e054ae8a452-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Три шоколада",
+      "format": "jpeg",
+      "bytes": 13862,
+      "sha256": "d1f960e85738be405d06d77d38295babf1c12862f07579cadeac74c57cc31b80"
+    },
+    {
+      "file": "menu/items/delivery-43.jpg",
+      "download_url": "https://eda.yandex/images/18644967/808cffc8644a42ec82d1f3b96834d1b2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Теф банан-шоколад",
+      "format": "jpeg",
+      "bytes": 19431,
+      "sha256": "b2ff3ccbca2772fff9d847b061ee2c82c407cf9a7fa7e7978bbb48b069ee4f58"
+    },
+    {
+      "file": "menu/items/delivery-44.jpg",
+      "download_url": "https://eda.yandex/images/21065399/36588ab3bad442c5bdbf9a298439b81e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Донат-кейк Киндер кантри",
+      "format": "jpeg",
+      "bytes": 11743,
+      "sha256": "dd988235682a3d5fcd6d85207e8d59fed4d7ec8e51f4ba9065b93b81d243426f"
+    },
+    {
+      "file": "menu/items/delivery-45.jpg",
+      "download_url": "https://eda.yandex/images/16473711/dbd82804d9cb4195b848ae3e2f2beced-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Три молока",
+      "format": "jpeg",
+      "bytes": 15366,
+      "sha256": "2f7610f7a6a727388d3afc52a9d872d0e1f8c12849eaafeb1030b0a53fa8e2f5"
+    },
+    {
+      "file": "menu/items/delivery-46.jpg",
+      "download_url": "https://eda.yandex/images/14586256/a541e7a874bd4d579cffd46a52f9c21f-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Сырники с заварным кремом",
+      "format": "jpeg",
+      "bytes": 18959,
+      "sha256": "2e3e13b70c177234e089c243621e3c7ad0c2b22a4fb9af77837b4ba040e72e68"
+    },
+    {
+      "file": "menu/items/delivery-47.jpg",
+      "download_url": "https://eda.yandex/images/16321539/262b47c9930e4816bdc240562b028ebd-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Сырники Крем-маракуйя",
+      "format": "jpeg",
+      "bytes": 19376,
+      "sha256": "84f7ffa609e76b2441b307bc1e1e79472ffc9c4d3448e3e7a3796c1a4993baa0"
+    },
+    {
+      "file": "menu/items/delivery-48.jpg",
+      "download_url": "https://eda.yandex/images/14855449/ae5362a33b954477a6a75dfe367ea925-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Сырники со шпинатом",
+      "format": "jpeg",
+      "bytes": 18890,
+      "sha256": "b080f0805cbc581d3b4fb1cb97f0383d2c68a013a8e6a19f1e98c60fdb95a3b3"
+    },
+    {
+      "file": "menu/items/delivery-49.jpg",
+      "download_url": "https://eda.yandex/images/21597040/3666d69bfd8d428bb94c01fd8592ca4d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Сэндвич Курица-чеддер",
+      "format": "jpeg",
+      "bytes": 25675,
+      "sha256": "59138e656f6cab84472493fd35c9e7e47b2373fa2cec6f54bf7c34825764f5e9"
+    },
+    {
+      "file": "menu/items/delivery-50.jpg",
+      "download_url": "https://eda.yandex/images/20637206/70527e93cf7b4d95ad60dec7f415f2ea-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Чиабатта с курицей",
+      "format": "jpeg",
+      "bytes": 22129,
+      "sha256": "ba4647471830d11626abcf8fdebce6073c5eb8b91deb8950214b4109289a7e2c"
+    },
+    {
+      "file": "menu/items/delivery-51.jpg",
+      "download_url": "https://eda.yandex/images/20814981/e2408ca1ee834686bff0c66484b05416-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Чиабатта с пеперони",
+      "format": "jpeg",
+      "bytes": 22121,
+      "sha256": "03b0949c626940730e61d1c270941f963f3341c56881ae002c962932ee15893f"
+    },
+    {
+      "file": "menu/items/delivery-52.jpg",
+      "download_url": "https://eda.yandex/images/21084615/f613c4a3e03f463fbe5248ddd48154e4-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti",
+      "title": "Сэндвич Ветчина-сыр",
+      "format": "jpeg",
+      "bytes": 25363,
+      "sha256": "2864f99b34e5c41491811ce17d6b4293394eab70b1de1804c53c015a953c2857"
+    },
+    {
+      "file": "logo/tefiti-logo.jpg",
+      "source": "Вложение пользователя: codex-clipboard-28af5962-fbf8-4db4-b702-e4882c81cd25.jpg",
+      "note": "Оригинал скопирован без изменений.",
+      "bytes": 24938,
+      "sha256": "de10d57f6e2208022a1646477bc1233e7a771efcd14eacf1632cfedfd2d30dc3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.section { background: var(--mist); padding-block: 85px; }
+.grid { display: grid; grid-template-columns: .85fr 1.15fr; gap: 100px; align-items: center; }
+.kicker { font-size: 13px; margin-bottom: 23px; color: var(--muted); }
+.address { display: flex; flex-direction: column; gap: 7px; font-style: normal; margin-top: 32px; > span { font-size: 12px; color: var(--muted); } a { font-size: 20px; display: flex; gap: 25px; align-items: center; } }
+.hours { margin-top: 25px; max-width: 340px; font-size: 12px; p { display: flex; justify-content: space-between; gap: 25px; margin-top: 6px; > span:first-child { color: var(--muted); } } }
+.phone { display: inline-block; margin-top: 24px; font-size: 20px; }
+.actions { margin-top: 31px; display: flex; align-items: center; gap: 23px; flex-wrap: wrap; }
+.telegram { font-size: 11px; display: flex; gap: 10px; }
+.map { position: relative; height: 530px; border-radius: 18px; overflow: hidden; background: #d8dfd7; iframe { border: 0; height: 100%; width: 100%; display: block; } }
+.mapLabel { position: absolute; bottom: 26px; left: 26px; right: 26px; background: var(--pearl); border-radius: 12px; padding: 17px 20px; display: flex; align-items: center; gap: 13px; box-shadow: 0 4px 18px #31494e10; > div { flex: 1; display: flex; flex-direction: column; gap: 1px; strong { font-family: var(--font-display), serif; font-size: 20px; font-weight: 400; } span { font-size: 10px; color: var(--muted); } } }
+.mapDot { width: 11px; height: 11px; border-radius: 50%; background: var(--blue); outline: 5px solid var(--mist); margin-right: 8px; }
+@media (max-width: 1100px) { .grid { gap: 60px; } }
+@media (max-width: 900px) { .grid { gap: 35px; } .map { height: 510px; } .address a { font-size: 18px; } .hours { font-size: 11px; } }
+@media (max-width: 700px) { .section { padding-block: 60px; } .grid { grid-template-columns: 1fr; gap: 40px; } .map { height: 420px; } .hours { font-size: 12px; max-width: 100%; } .mapLabel { bottom: 18px; left: 18px; right: 18px; padding: 13px 17px; } .address { margin-top: 27px; } }

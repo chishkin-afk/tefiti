@@ -1,0 +1,1644 @@
+{
+  "collected_at": "2026-10-20",
+  "sources": {
+    "delivery": "delivery-menu.json",
+    "maps": "maps-menu.json",
+    "paper": "paper-menu.json"
+  },
+  "missing_photo_label": "нет фото",
+  "note": "Цены и ассортимент источников различаются. Все цены привязаны к своему источнику; бумажные меню могут быть устаревшими.",
+  "delivery": [
+    {
+      "name": "Латте",
+      "price": 320,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-01.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14790567/7fdfb1e49b594ed590e3e2073d012760-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Капучино",
+      "price": 270,
+      "currency": "RUB",
+      "portion": "200 мл",
+      "image": "menu/items/delivery-02.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14908628/af053efa13d4443d8fb41efcc25335a2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Раф Халва",
+      "price": 390,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-03.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15441079/dde7ed234700403b8f144170e45a1e0e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Теф",
+      "price": 430,
+      "currency": "RUB",
+      "portion": "140 г",
+      "image": "menu/items/delivery-04.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14921544/5161e63772b649ea87659ee922b2f835-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Сырники мак-банан-сгущенка",
+      "price": 480,
+      "currency": "RUB",
+      "portion": "200 г",
+      "image": "menu/items/delivery-05.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14855449/00f448497e474920b931c526b5b186e6-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Пирожное картошка",
+      "price": 250,
+      "currency": "RUB",
+      "portion": "80 г",
+      "image": "menu/items/delivery-06.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/20380622/78d0b0a896644b8dbca3c855ed56b447-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Айс-латте",
+      "price": 330,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-07.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/16321539/db4bf02a3ced4f4e921b9d7f4e77594c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Салат Цезарь",
+      "price": 470,
+      "currency": "RUB",
+      "portion": "190 г",
+      "image": "menu/items/delivery-08.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/16289781/193576bf52ab48cf8d06f57eef36f47b-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Смузи яблоко-манго-апельсин",
+      "price": 490,
+      "currency": "RUB",
+      "portion": "350 мл",
+      "image": "menu/items/delivery-09.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15382203/eca2146296fe4ba38898dc07b4d9e895-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Смузи клубника-банан",
+      "price": 490,
+      "currency": "RUB",
+      "portion": "350 мл",
+      "image": "menu/items/delivery-10.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14921544/9b7af50558884f39aac6667f4cba239f-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Милкшейк Клубника-роза",
+      "price": 490,
+      "currency": "RUB",
+      "portion": "350 мл",
+      "image": "menu/items/delivery-11.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15143849/6de52643aafc4c129ca29553baa69aea-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Милкшейк Ванильный",
+      "price": 480,
+      "currency": "RUB",
+      "portion": "350 мл",
+      "image": null,
+      "photo_status": "нет фото",
+      "image_url": null,
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Милкшейк «Фисташковый»",
+      "price": 520,
+      "currency": "RUB",
+      "portion": "350 мл",
+      "image": null,
+      "photo_status": "нет фото",
+      "image_url": null,
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Раф груша-дорблю",
+      "price": 390,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-14.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15143849/23899f60be354224a468c76816dda71c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Раф Табак-ваниль",
+      "price": 390,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-15.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14921544/d6359b86c6344f4685a8a645920950a2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Латте Апельсин-пломбир",
+      "price": 390,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-16.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15437042/7d7d882128fa4440a72b865060a968de-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Латте фисташка",
+      "price": 410,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-17.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15441079/d2e57a8308d242608c7ba727c5394c38-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Бамбл",
+      "price": 430,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-18.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15143849/da72875151494d54826baa765e55864d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Айс матча тоник",
+      "price": 370,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-19.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14571459/df27794e15324d0187518ea2974098ac-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Эспрессо-тоник",
+      "price": 380,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-20.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/13802765/49535027627e4d6487fae83c17e4cc94-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Лимонад манго-маракуя",
+      "price": 380,
+      "currency": "RUB",
+      "portion": "350 мл",
+      "image": "menu/items/delivery-21.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15441079/676aa4fb8be6453d94295ccf4a2b4f3e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Классический лимонад",
+      "price": 360,
+      "currency": "RUB",
+      "portion": "350 мл",
+      "image": "menu/items/delivery-22.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/13802765/f21e25f9fb7c457f8918170400fb8908-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Айс матча",
+      "price": 350,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-23.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14790567/9f4b99b95ca64a65834c50e8b93f3462-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Облепиховый чай",
+      "price": 300,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-24.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14046028/04675c56e6da4b3fbae8bdc94dbc0a7a-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Раф Классический",
+      "price": 350,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-25.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/13802765/92056f5a7eeb483d90cf528ebc10388e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Какао",
+      "price": 340,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-26.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14046028/1599836ec042465a9d373f89eb9990a4-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Американо",
+      "price": 250,
+      "currency": "RUB",
+      "portion": "200 мл",
+      "image": "menu/items/delivery-27.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/13802765/651a2158f87547199113c0a78b0254ac-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Матча латте",
+      "price": 370,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": "menu/items/delivery-28.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/15660005/34a14f62db5e4617b6d03a4d30baff7d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Чай груша-корица",
+      "price": 330,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": null,
+      "photo_status": "нет фото",
+      "image_url": null,
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Имбирный чай",
+      "price": 300,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": null,
+      "photo_status": "нет фото",
+      "image_url": null,
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Чай манго-маракуя",
+      "price": 320,
+      "currency": "RUB",
+      "portion": "300 мл",
+      "image": null,
+      "photo_status": "нет фото",
+      "image_url": null,
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Медовик",
+      "price": 400,
+      "currency": "RUB",
+      "portion": "160 г",
+      "image": "menu/items/delivery-32.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14440961/cdd4f1cc609f4c7eb058edd25ebd481c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Трубочка со сгущёнкой",
+      "price": 250,
+      "currency": "RUB",
+      "portion": "100 г",
+      "image": "menu/items/delivery-33.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/17742006/16cf6c8cf4744a9bb28424d4e0408e0d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Тирамису",
+      "price": 440,
+      "currency": "RUB",
+      "portion": "115 г",
+      "image": "menu/items/delivery-34.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14908628/80c6d0f3b2d44972be06920791849f5d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Шоколадный кукис",
+      "price": 250,
+      "currency": "RUB",
+      "portion": "55 г",
+      "image": "menu/items/delivery-35.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/16473711/72ba8fae9c3f4a9e85c11567c69e31cd-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Лимонный тарт",
+      "price": 380,
+      "currency": "RUB",
+      "portion": "100 г",
+      "image": "menu/items/delivery-36.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14440961/6b5b745864f14c6ebd417ba9b32b7e0c-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Наполеон",
+      "price": 420,
+      "currency": "RUB",
+      "portion": "160 г",
+      "image": "menu/items/delivery-37.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14659792/0f0cfd3c0c0d40858c865ed8d75813af-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Теф Нутелла",
+      "price": 460,
+      "currency": "RUB",
+      "portion": "150 г",
+      "image": "menu/items/delivery-38.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/16321539/2bb4af5edb1f4befa0aef914eebb53dd-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Донат-кейк Груша-пекан",
+      "price": 470,
+      "currency": "RUB",
+      "portion": "110 г",
+      "image": "menu/items/delivery-39.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/19853791/691b8e27fd724e37a8b75c425726f5fe-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Донат-кейк Шоколад Черный кунжут",
+      "price": 470,
+      "currency": "RUB",
+      "portion": "110 г",
+      "image": "menu/items/delivery-40.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/21597040/de7a16bd38a14ab4ac6dab31158da1d2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Печенье «Красный бархат»",
+      "price": 230,
+      "currency": "RUB",
+      "portion": "70 г",
+      "image": "menu/items/delivery-41.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/17635794/f6fd8a5bfc2b4de291ea5f7529d323de-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Три шоколада",
+      "price": 450,
+      "currency": "RUB",
+      "portion": "150 г",
+      "image": "menu/items/delivery-42.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14440961/c2aacd12818c488cb6a08e054ae8a452-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Теф банан-шоколад",
+      "price": 400,
+      "currency": "RUB",
+      "portion": "140 г",
+      "image": "menu/items/delivery-43.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/18644967/808cffc8644a42ec82d1f3b96834d1b2-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Донат-кейк Киндер кантри",
+      "price": 470,
+      "currency": "RUB",
+      "portion": "110 г",
+      "image": "menu/items/delivery-44.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/21065399/36588ab3bad442c5bdbf9a298439b81e-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Три молока",
+      "price": 430,
+      "currency": "RUB",
+      "portion": "200 г",
+      "image": "menu/items/delivery-45.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/16473711/dbd82804d9cb4195b848ae3e2f2beced-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Сырники с заварным кремом",
+      "price": 460,
+      "currency": "RUB",
+      "portion": "200 г",
+      "image": "menu/items/delivery-46.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14586256/a541e7a874bd4d579cffd46a52f9c21f-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Сырники Крем-маракуйя",
+      "price": 510,
+      "currency": "RUB",
+      "portion": "200 г",
+      "image": "menu/items/delivery-47.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/16321539/262b47c9930e4816bdc240562b028ebd-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Сырники со шпинатом",
+      "price": 480,
+      "currency": "RUB",
+      "portion": "200 г",
+      "image": "menu/items/delivery-48.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/14855449/ae5362a33b954477a6a75dfe367ea925-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Сэндвич Курица-чеддер",
+      "price": 430,
+      "currency": "RUB",
+      "portion": "160 г",
+      "image": "menu/items/delivery-49.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/21597040/3666d69bfd8d428bb94c01fd8592ca4d-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Чиабатта с курицей",
+      "price": 440,
+      "currency": "RUB",
+      "portion": "210 г",
+      "image": "menu/items/delivery-50.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/20637206/70527e93cf7b4d95ad60dec7f415f2ea-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Чиабатта с пеперони",
+      "price": 450,
+      "currency": "RUB",
+      "portion": "230 г",
+      "image": "menu/items/delivery-51.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/20814981/e2408ca1ee834686bff0c66484b05416-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    },
+    {
+      "name": "Сэндвич Ветчина-сыр",
+      "price": 415,
+      "currency": "RUB",
+      "portion": "160 г",
+      "image": "menu/items/delivery-52.jpg",
+      "photo_status": "есть фото",
+      "image_url": "https://eda.yandex/images/21084615/f613c4a3e03f463fbe5248ddd48154e4-300x300.jpeg",
+      "source": "https://eda.yandex.ru/r/tefiti?placeSlug=tefiti"
+    }
+  ],
+  "maps": [
+    {
+      "title": "Наполеон",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/1540730/2a0000019543732c269ac13977ceaed52214/{size}",
+      "price": "360",
+      "currency": "₽",
+      "matchKey": "v1.xrGlgM0DtLerJ9HJXFFp9MLHEVe1Ez6Vz88C3vSqIZc",
+      "category": "Без категории",
+      "image": "menu/items/dessert-01.jpg",
+      "photo_status": "есть фото"
+    },
+    {
+      "title": "Пирожное картошка",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/20222640/2a0000019dafbb65486fea2da9b00e003fca/{size}",
+      "price": "210",
+      "currency": "₽",
+      "matchKey": "v1.BPiVYC2yV6Zud1zfnqML9Edx5W8tZRXxt1_dkwD4tu8",
+      "category": "Без категории",
+      "image": "menu/items/dessert-02.jpg",
+      "photo_status": "есть фото"
+    },
+    {
+      "title": "Лимонный тарт",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13852611/2a00000195437461dc5f159d092a47862628/{size}",
+      "price": "320",
+      "currency": "₽",
+      "matchKey": "v1.qotQKSEBror1AijEi2kOgyXPgY3vbHjl3daUDy0AmeA",
+      "category": "Без категории",
+      "image": "menu/items/dessert-03.jpg",
+      "photo_status": "есть фото"
+    },
+    {
+      "title": "Тирамису",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5567679/2a00000195437548e98fbb100cb1cdc5d78e/{size}",
+      "price": "350",
+      "currency": "₽",
+      "matchKey": "v1.RhqqsPqOCv6Tm6L35qRlw6DYKgLmLYjh16M3arJ-T0A",
+      "category": "Без категории",
+      "image": "menu/items/dessert-04.webp",
+      "photo_status": "есть фото"
+    },
+    {
+      "title": "Корпусный десерт \"Вишня\"",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019d59d60214c54d220df7d76378ce/{size}",
+      "price": "470",
+      "currency": "₽",
+      "matchKey": "v1.2kRJix-9EG91YuQrMwLhm63elt7o4XRTgzH9M7B0YN0",
+      "category": "Без категории",
+      "image": "menu/items/dessert-05.jpg",
+      "photo_status": "есть фото"
+    },
+    {
+      "title": "Корпусный десерт \"Персик\"",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000019d59d6ad5e7ba436e0e42117a235/{size}",
+      "price": "460",
+      "currency": "₽",
+      "matchKey": "v1.Xci_MDZfiHgbzQQ8dzzsQRfIoc6dy1kumr6WWkmBcis",
+      "category": "Без категории",
+      "image": "menu/items/dessert-06.jpg",
+      "photo_status": "есть фото"
+    }
+  ],
+  "paper": [
+    {
+      "name": "Эспрессо",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "200 мл",
+          "price": 200,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Американо",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "200 мл",
+          "price": 200,
+          "currency": "RUB"
+        },
+        {
+          "portion": "300 мл",
+          "price": 255,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-27.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Фильтр кофе",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "200 мл",
+          "price": 230,
+          "currency": "RUB"
+        },
+        {
+          "portion": "300 мл",
+          "price": 260,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Флэт Уайт",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "200 мл",
+          "price": 250,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Капучино",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "200 мл",
+          "price": 230,
+          "currency": "RUB"
+        },
+        {
+          "portion": "300 мл",
+          "price": 270,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 300,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-02.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Латте",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 270,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 300,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-01.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Раф Классический",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 320,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 360,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-25.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Матча латте",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 300,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 340,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-28.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Какао",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 290,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 330,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-26.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Латте Апельсин-пломбир",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 360,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 400,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-16.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Латте фисташка",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 390,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 430,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-17.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Раф Табак-ваниль",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 380,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 420,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-15.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Раф груша-дорблю",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 370,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 410,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-14.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Раф Халва",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 370,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 410,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-03.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Облепиховый чай",
+      "category": "Чай",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 330,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 360,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-24.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Имбирный чай",
+      "category": "Чай",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 330,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 360,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Чай манго-маракуя",
+      "category": "Чай",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 350,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 390,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Листовой чай (гречишный, молочный улун, ассам, эрл грей, поцелуй гейши, травяной)",
+      "category": "Чай",
+      "variants": [
+        {
+          "portion": "объём не указан",
+          "price": 200,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Айс-латте",
+      "category": "Холодная классика",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 300,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-07.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Эспрессо-тоник",
+      "category": "Холодная классика",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 330,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-20.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Бамбл (апельсин, гранат, вишня)",
+      "category": "Холодная классика",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 360,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-18.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Бамбл на фреше",
+      "category": "Холодная классика",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 450,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Фреш апельсиновый",
+      "category": "Холодная классика",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 400,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Айс матча",
+      "category": "Холодная классика",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 310,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-23.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Айс матча тоник",
+      "category": "Холодная классика",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 330,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-19.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Классический лимонад",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 350,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-22.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Лимонад манго-маракуя",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 370,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-21.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Лимонад клубника-грейпфрут",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 380,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Лимонад кокос-гуава-юдзу",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 380,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Лимонад персик-алоэ",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 390,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Смузи клубника-банан",
+      "category": "Смузи",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 420,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-10.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Смузи яблоко-манго-апельсин",
+      "category": "Смузи",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 420,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-09.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Смузи ягодный",
+      "category": "Смузи",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 420,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Милкшейк Клубника-роза",
+      "category": "Милкшейки",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 430,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-11.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Милкшейк вишня-шоколадное печенье",
+      "category": "Милкшейки",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 430,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Милкшейк «Фисташковый»",
+      "category": "Милкшейки",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 450,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Сироп",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "добавка",
+          "price": 50,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Сироп топинамбура",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "добавка",
+          "price": 50,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Домашняя солёная карамель",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "добавка",
+          "price": 65,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Декаф",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "добавка",
+          "price": 60,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Растительное молоко",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "вариант 1",
+          "price": 90,
+          "currency": "RUB"
+        },
+        {
+          "portion": "вариант 2",
+          "price": 100,
+          "currency": "RUB"
+        },
+        {
+          "portion": "вариант 3",
+          "price": 115,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Безлактозное молоко",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "добавка",
+          "price": 70,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Маршмеллоу",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "добавка",
+          "price": 50,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Шот эспрессо",
+      "category": "Дополнительно",
+      "variants": [
+        {
+          "portion": "добавка",
+          "price": 80,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-03.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": false
+    },
+    {
+      "name": "Глясе",
+      "category": "Классика",
+      "variants": [
+        {
+          "portion": "200 мл",
+          "price": 330,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Имбирный бум",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 280,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Лимонад яблоко-фейхоа",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 300,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Лимонад клубника-базилик",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 300,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Полезный смузи смородина-кокос",
+      "category": "Смузи",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 400,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Милкшейк кофейный банан",
+      "category": "Милкшейки",
+      "variants": [
+        {
+          "portion": "350 мл",
+          "price": 370,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Пряный бамбл (апельсин, гранат, вишня)",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 350,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 390,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Пряный бамбл на фреше",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 400,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 450,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Пина колада б/а",
+      "category": "Чай",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 330,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 360,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-01.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Латте кокос-бузина",
+      "category": "Согрейся с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 350,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 380,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-02.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Гранатовый фильтр-тоник",
+      "category": "Освежись с Теф",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 340,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-02.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Пряная слива",
+      "category": "Чай",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 350,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 380,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-02.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Грог вишневый б/а",
+      "category": "Чай",
+      "variants": [
+        {
+          "portion": "300 мл",
+          "price": 350,
+          "currency": "RUB"
+        },
+        {
+          "portion": "400 мл",
+          "price": 380,
+          "currency": "RUB"
+        }
+      ],
+      "image": null,
+      "photo_status": "нет фото",
+      "source_photo": "menu/photos/menu-02.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    },
+    {
+      "name": "Собери свой Теф",
+      "category": "Собери свой десерт",
+      "variants": [
+        {
+          "portion": "порция",
+          "price": 390,
+          "currency": "RUB"
+        }
+      ],
+      "image": "menu/items/delivery-04.jpg",
+      "photo_status": "есть фото",
+      "source_photo": "menu/photos/menu-04.jpg",
+      "source": "https://yandex.ru/maps/org/tefiti/73006262346/gallery/",
+      "historical_variant": true
+    }
+  ]
+}
