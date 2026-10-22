@@ -1,9 +1,2 @@
-.reveal {
-  opacity: 1;
-  transform: translateY(0);
-  transition: opacity 650ms var(--ease-out), transform 650ms var(--ease-out);
-  &[data-pending] { opacity: 0; transform: translateY(24px); }
-}
-@media (prefers-reduced-motion: reduce) {
-  .reveal { transition: none; transform: none !important; opacity: 1 !important; }
-}
+.reveal { opacity:1;transform:translateY(0);transition:opacity 750ms var(--ease-out),transform 750ms var(--ease-out);&[data-pending]{opacity:0;transform:translateY(34px);} }
+@media(prefers-reduced-motion:reduce){.reveal{transition:none;transform:none !important;opacity:1 !important;}}

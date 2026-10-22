@@ -1,13 +1,13 @@
-.header { position: sticky; top: 0; z-index: 30; background: var(--pearl); border-bottom: 1px solid #31494e12; }
-.inner { display: flex; align-items: center; justify-content: space-between; height: 96px; gap: 35px; }
-.brand { display: flex; gap: 5px; align-items: center; font-family: var(--font-display), serif; font-size: 34px; letter-spacing: -.07em; line-height: 1; svg { width: 66px; height: 66px; color: #7898a2; } }
-.brandCaption { display: block; font-family: var(--font-body), sans-serif; font-size: 8px; letter-spacing: .13em; margin-top: 8px; margin-left: 2px; }
-.nav { display: flex; gap: 36px; margin-left: auto; a { font-size: 13px; position: relative; padding-block: 6px; &::after { content: ""; position: absolute; bottom: 0; left: 0; width: 100%; height: 1px; background: currentColor; transform: scaleX(0); transform-origin: left; transition: transform 220ms var(--ease-out); } } }
-.location { display: flex; align-items: center; gap: 8px; font-size: 12px; padding: 12px 17px; border: 1px solid var(--line); border-radius: 100px; margin-left: 30px; white-space: nowrap; }
-.menuButton { display: none; background: transparent; padding: 12px; margin-right: -12px; }
-.dialog { margin: 0 0 0 auto; padding: 28px; border: 0; width: min(100%, 430px); height: 100dvh; max-height: none; background: var(--pearl); color: var(--ink); &::backdrop { background: #243b4470; } nav { display: flex; flex-direction: column; gap: 26px; margin: 70px 0; a { font-family: var(--font-display), serif; font-size: 38px; line-height: 1.2; } } p { font-size: 13px; margin-top: 8px; color: var(--muted); } }
-.mobileTop { display: flex; justify-content: space-between; align-items: center; font-family: var(--font-display), serif; font-size: 26px; button { background: transparent; padding: 12px; margin-right: -12px; } }
-.mobilePhone { font-size: 17px; }
-@media (hover: hover) and (pointer: fine) { .nav a:hover::after { transform: scaleX(1); } .location:hover { background: var(--mist); } }
-@media (max-width: 900px) { .nav { gap: 24px; } .location { margin-left: 0; } .inner { gap: 24px; height: 86px; } }
-@media (max-width: 700px) { .nav, .location { display: none; } .menuButton { display: block; } .inner { height: 76px; } .brand { font-size: 29px; svg { width: 56px; height: 56px; } } .brandCaption { font-size: 7px; } }
+.header { position: sticky; top: 14px; z-index: 40; margin: 20px 28px 0; }
+.glass { border-radius: 99px !important; }
+.inner { min-height: 72px; padding: 0 28px; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 25px; }
+.brand { display: flex; align-items: center; gap: 7px; font-size: 31px; font-weight: 600; line-height: 1; letter-spacing: -.075em; svg { width: 29px; height: 29px; } sup { align-self: flex-start; font-size: 10px; letter-spacing: 0; margin-top: 2px; margin-left: -3px; } }
+.nav { display: flex; gap: 24px; align-items: center; a { font-size: 12px; white-space: nowrap; } }
+.right { display: flex; justify-content: flex-end; align-items: center; gap: 23px; }
+.concept { color: var(--muted); font-size: 10px; }
+.search { width: 33px; height: 33px; border: 1px solid #dcdce390; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+.menuButton { display: none; background: transparent; padding: 7px; }
+.dialog { border: 1px solid #fff; background: #f5f5f9f2; backdrop-filter: blur(20px); color: var(--ink); border-radius: 26px; padding: 28px; margin: 16px auto; width: calc(100% - 30px); max-width: 480px; &::backdrop { background: #17171950; } nav { display: flex; flex-direction: column; margin: 45px 0; a { padding: 17px 0; font-size: 29px; letter-spacing: -.04em; border-bottom: 1px solid var(--line); display: flex; justify-content: space-between; span { font-size: 22px; } } } > p { font-size: 12px; color: var(--muted); } }
+.mobileTop { display: flex; justify-content: space-between; align-items: center; > button { background: transparent; padding: 9px; } }
+@media (max-width:1050px) { .concept { display: none; } .nav { gap: 19px; } }
+@media (max-width:780px) { .header { margin: 14px 14px 0; top: 10px; } .inner { display: flex; justify-content: space-between; min-height: 64px; padding: 0 19px; } .brand { font-size: 28px; svg { width: 26px; } } .nav { display: none; } .menuButton { display: block; } .right { gap: 12px; } }

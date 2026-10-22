@@ -1,23 +1,11 @@
-import delivery from "../../../../public/assets/menu/delivery-menu.json";
-import type { Category, MenuItem } from "./categories";
-
-const signature = new Set(["Раф Халва", "Раф груша-дорблю", "Раф Табак-ваниль", "Латте Апельсин-пломбир", "Латте фисташка"]);
-const coffee = new Set(["Латте", "Капучино", "Облепиховый чай", "Раф Классический", "Какао", "Американо", "Матча латте", "Чай груша-корица", "Имбирный чай", "Чай манго-маракуя"]);
-
-function getCategory(name: string, portion: string): Category {
-  if (signature.has(name)) return "Авторские";
-  if (coffee.has(name)) return "Кофе и чай";
-  if (/^(Сырники|Салат|Сэндвич|Чиабатта)/.test(name)) return "Завтраки и еда";
-  if (portion.includes("мл")) return "Холодные";
-  return "Десерты";
-}
-
-export const menuItems: MenuItem[] = delivery.items.map((item, index) => ({
-  id: `menu-${index + 1}`,
-  name: item.name,
-  price: item.price,
-  portion: item.portion,
-  image: item.image ? `/assets/${item.image}` : null,
-  category: getCategory(item.name, item.portion),
-}));
-
+import type { MenuItem } from "./categories";
+export const menuItems: MenuItem[] = [
+  { id:"flat-white",name:"Флэт уайт",price:280,portion:"230 мл",image:"/assets/images/flat-white.webp",category:"Кофе",description:"Двойной эспрессо и тонкая, шелковистая молочная пена. Плотный вкус с мягким послевкусием.",tags:["насыщенный","молочный"],allergens:"Молоко" },
+  { id:"croissant",name:"Круассан классический",price:240,portion:"85 г",image:"/assets/images/croissant.webp",category:"Выпечка",description:"Золотистая корочка, воздушная середина и десятки тонких слоёв. Хорош сам по себе и рядом с чашкой кофе.",tags:["сливочный","хрустящий"],allergens:"Глютен, молоко, яйца" },
+  { id:"iced-oat",name:"Айс-латте на овсяном",price:340,portion:"350 мл",image:"/assets/images/iced-coffee.webp",category:"Кофе",description:"Эспрессо, овсяный напиток и прозрачный лёд. Прохладная версия привычного утреннего ритуала.",tags:["холодный","овсяный"],allergens:"Овёс, возможны следы глютена" },
+  { id:"millefeuille",name:"Мильфей ванильный",price:390,portion:"140 г",image:"/assets/images/cake.webp",category:"Десерты",description:"Тонкое карамелизированное тесто и воздушный ванильный крем. Тот самый баланс хруста и нежности.",tags:["слоёный","ванильный"],allergens:"Глютен, молоко, яйца" },
+  { id:"filter",name:"Фильтр дня",price:220,portion:"250 мл",image:null,category:"Кофе",description:"Чёрный кофе без лишнего. Чистый, лёгкий, с естественной сладостью зерна.",tags:["чёрный","лёгкий"],allergens:"Без молока" },
+  { id:"almond",name:"Круассан миндальный",price:320,portion:"110 г",image:null,category:"Выпечка",description:"Круассан с миндальным кремом и лепестками миндаля. Для тех, кто любит ещё один слой вкуса.",tags:["миндаль","сливочный"],allergens:"Орехи, глютен, молоко, яйца" },
+  { id:"tonic",name:"Эспрессо-тоник",price:310,portion:"300 мл",image:null,category:"Кофе",description:"Двойной эспрессо, тоник и лёд. Освежающий, сухой и чуть дерзкий.",tags:["холодный","тоник"],allergens:"Без молока" },
+  { id:"cocoa",name:"Какао на овсяном",price:290,portion:"300 мл",image:null,category:"Кофе",description:"Тёмное какао и овсяный напиток. Мягкое шоколадное тепло без кофеина.",tags:["шоколадный","овсяный"],allergens:"Овёс, возможны следы глютена" },
+];

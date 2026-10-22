@@ -6,7 +6,6 @@ import { DessertStory } from "@/widgets/dessert-story/ui/dessert-story/dessert-s
 import { Reviews } from "@/widgets/reviews/ui/reviews/reviews";
 import { Contacts } from "@/widgets/contacts/ui/contacts/contacts";
 import { Footer } from "@/widgets/footer/ui/footer/footer";
-
 export function HomePage() {
-  return <><a href="#main" className="skipLink">Перейти к содержимому</a><Header /><main id="main"><Hero /><About /><Menu /><DessertStory /><Reviews /><Contacts /></main><Footer /></>;
+  return <div className="siteFrame"><a href="#main" className="skipLink">Перейти к содержимому</a><Header /><main id="main"><Hero /><Menu /><DessertStory /><About /><Reviews /><Contacts /></main><Footer /></div>;
 }

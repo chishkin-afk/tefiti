@@ -1,15 +1,13 @@
+import Image from "next/image";
 import { Reveal } from "@/shared/ui/reveal/reveal";
-import { Icon } from "@/shared/ui/icon/icon";
-import { Shell } from "@/shared/ui/shell/shell";
+import { BrandMark } from "@/shared/ui/brand-mark/brand-mark";
+import { ScrollObject } from "@/shared/ui/scroll-object/scroll-object";
+import { LiquidGlass } from "@/shared/ui/liquid-glass/liquid-glass";
 import styles from "./about.module.scss";
-
-export function About() {
-  return <section className={`section ${styles.section}`} id="about" aria-labelledby="about-title"><div className="container">
-    <Reveal className={styles.intro}><div className={styles.lead}><Shell /><p>Здесь можно<br />не спешить</p></div><div><h2 id="about-title">У каждого дня<br />есть тёплая сторона.</h2><p className={styles.text}>Мы нашли свою на Красной, 98. В мягком свете, любимой чашке и разговорах без повода. Тефити — небольшая кофейня, в которую можно заглянуть на минутку, а остаться чуть дольше.</p></div></Reveal>
-    <Reveal className={styles.features} delay={70}>
-      <div><span className={styles.icon}><Icon name="cup" /></span><h3>Кофе под настроение</h3><p>От простого американо до рафа<br />с халвой или грушей и дорблю.</p></div>
-      <div><span className={styles.icon}><Shell /></span><h3>Десерт по вашим правилам</h3><p>Выбирайте бисквит, начинку и крем.<br />Собирайте свой неповторимый Теф.</p></div>
-      <div><span className={styles.icon}><Icon name="heart" /></span><h3>Уютно быть собой</h3><p>Наедине с книгой, с друзьями<br />или с любимым питомцем.</p></div>
-    </Reveal>
-  </div></section>;
+export function About(){
+  return <section className={`section ${styles.section}`} id="about" aria-labelledby="about-title"><div className="container"><Reveal className={styles.heading}><h2 id="about-title">Меньше шума.<br/>Больше ощущения.</h2><div><p>Слой — идея места, где простые вещи<br/>сделаны с особым вниманием.<br/>К кофе. К деталям. К тебе.</p><a href="#signature" className="circleButton" aria-label="Узнать о фирменной выпечке">↗</a></div></Reveal><div className={styles.grid}>
+  <Reveal className={styles.dark}><h3>Вкус, которому<br/>не нужен повод.</h3><p>Хороший кофе — уже<br/>достаточная причина.</p><ScrollObject className={styles.bigMark} travel={50} rotate={14}><BrandMark/></ScrollObject></Reveal>
+  <Reveal className={styles.photoCard} delay={60}><ScrollObject className={styles.coffeeObject} travel={55} rotate={-4}><Image src="/assets/images/iced-coffee.webp" alt="Айс-латте в прозрачном стакане с молоком и льдом" fill sizes="(max-width:650px) 90vw,30vw"/></ScrollObject><LiquidGlass className={styles.photoCaption}><p>Холодный.<br/>Но с характером.</p></LiquidGlass></Reveal>
+  <Reveal className={styles.quiet} delay={120}><h3>Оставь день<br/>за дверью.</h3><p>Есть только этот момент.<br/>И твоя чашка.</p><div className={styles.sculpture} aria-hidden="true"><ScrollObject travel={45} rotate={-12}><span/><span/><span/></ScrollObject></div><a href="#contacts" className="circleButton" aria-label="О концепции студии">↗</a></Reveal>
+  </div></div></section>;
 }

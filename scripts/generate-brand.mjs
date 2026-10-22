@@ -1,20 +1,18 @@
-import fs from "node:fs/promises";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
-import sharp from "sharp";
-
-const project = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const directory = path.join(project, "public/assets/logo");
-const drawing = `<g stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M320 113c23 0 42 8 56 22 40-6 74 14 89 50 38 12 64 43 62 79 35 15 42 48 10 79 24 27 8 66-29 79L367 512q-47 36-94 0L132 434c-39-13-43-46-20-73-40-25-39-65 1-88-3-39 22-70 62-85 14-37 50-58 92-53 14-14 30-22 53-22Z"/><path d="m267 135 33 188m76-188-26 188m115-138-75 161m137-82L412 391M175 188l81 157M113 273l116 117m-117-29 138 111m287-129L389 472M273 512q47 7 94 0"/></g><circle cx="320" cy="414" r="77" fill="currentColor"/>`;
-const svg = (transparent = false) => `<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" color="${transparent ? "#8eacb5" : "#f6f7f3"}"><title>Логотип кофейни Тефити — ракушка с жемчужиной</title>${transparent ? "" : '<rect width="640" height="640" fill="#8eacb5"/>'}${drawing}</svg>`;
-
-await fs.mkdir(directory, { recursive: true });
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import sharp from 'sharp';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const directory=path.join(root,'public/assets/logo');
+const mark='<g fill="none" stroke="currentColor" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="m9 22 23-13 23 13-23 13L9 22Z"/><path d="m9 32 23 13 23-13M9 42l23 13 23-13"/></g>';
+const icon=(dark=false)=>`<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64" color="${dark?'#fbfbfd':'#171719'}"><title>Слой — coffee studio</title><rect width="64" height="64" rx="16" fill="${dark?'#171719':'#fbfbfd'}"/>${mark}</svg>`;
+const transparent=`<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64" color="#171719"><title>Слой — фирменный знак</title>${mark}</svg>`;
+const logo=`<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200"><title>Слой — coffee studio</title><g transform="translate(10 10) scale(2.8)" color="#171719">${mark}</g><text x="235" y="142" font-size="140" font-family="Arial,sans-serif" font-weight="600" letter-spacing="-11" fill="#171719">слой</text></svg>`;
+await fs.mkdir(directory,{recursive:true});
 await Promise.all([
-  fs.writeFile(path.join(directory, "tefiti-logo.svg"), svg()),
-  fs.writeFile(path.join(directory, "tefiti-mark.svg"), svg(true)),
-  fs.writeFile(path.join(project, "public/favicon.svg"), svg()),
-  sharp(Buffer.from(svg())).resize(4096, 4096).png().toFile(path.join(directory, "tefiti-logo-hq.png")),
-  sharp(Buffer.from(svg(true))).resize(2048, 2048).png().toFile(path.join(directory, "tefiti-mark.png")),
-  sharp(Buffer.from(svg())).resize(64, 64).png().toFile(path.join(project, "public/favicon.png")),
-  sharp(Buffer.from(svg())).resize(180, 180).png().toFile(path.join(project, "public/apple-touch-icon.png")),
+ fs.writeFile(path.join(directory,'sloy-logo.svg'),logo),fs.writeFile(path.join(directory,'sloy-mark.svg'),transparent),fs.writeFile(path.join(root,'public/favicon.svg'),icon(true)),
+ sharp(Buffer.from(logo)).resize(2800,800).png().toFile(path.join(directory,'sloy-logo.png')),
+ sharp(Buffer.from(transparent)).resize(2048,2048).png().toFile(path.join(directory,'sloy-mark.png')),
+ sharp(Buffer.from(icon(true))).resize(64,64).png().toFile(path.join(root,'public/favicon.png')),
+ sharp(Buffer.from(icon(true))).resize(180,180).png().toFile(path.join(root,'public/apple-touch-icon.png')),
 ]);

@@ -1,6 +1,6 @@
-.footer { background: var(--blue); padding: 55px 0 24px; }
-.top { display: flex; justify-content: space-between; align-items: center; gap: 40px; padding-bottom: 45px; > p { font-family: var(--font-display), serif; font-size: 25px; line-height: 1.4; letter-spacing: -.025em; } nav { display: flex; gap: 27px; font-size: 12px; } }
-.brand { display: flex; align-items: center; gap: 8px; color: #f6f7f3; font-family: var(--font-display), serif; font-size: 49px; letter-spacing: -.06em; svg { width: 94px; height: 94px; } }
-.bottom { display: flex; justify-content: space-between; gap: 25px; align-items: center; border-top: 1px solid #31494e30; padding-top: 23px; font-size: 10px; a { display: flex; gap: 12px; align-items: center; } }
-@media (max-width: 900px) { .top { flex-wrap: wrap; nav { margin-left: auto; } } }
-@media (max-width: 600px) { .footer { padding-top: 37px; } .top { flex-direction: column; align-items: start; gap: 25px; padding-bottom: 32px; nav { margin-left: 0; gap: 30px; } > p { font-size: 24px; } } .brand { font-size: 43px; svg { width: 75px; height: 75px; } } .bottom { flex-wrap: wrap; gap: 14px; > span:first-child { width: 100%; } > a { margin-left: auto; } } }
+.footer{padding:50px 0 24px;}
+.top{display:flex;justify-content:space-between;align-items:center;gap:30px;padding-bottom:35px;>p{font-size:15px;line-height:1.35;letter-spacing:-.03em;}nav{display:flex;gap:23px;font-size:10px;} >a:last-child{width:38px;height:38px;}}
+.brand{display:flex;align-items:center;gap:9px;letter-spacing:-.085em;font-weight:600;font-size:49px;line-height:1;svg{width:43px;height:43px;}sup{font-size:12px;align-self:start;margin-top:5px;letter-spacing:0;margin-left:-5px;}}
+.bottom{border-top:1px solid var(--line);padding-top:22px;display:flex;gap:24px;justify-content:space-between;font-size:8px;color:var(--muted);}
+@media(max-width:850px){.top{flex-wrap:wrap;nav{margin-left:auto;}}.bottom>span:last-child{display:none;}}
+@media(max-width:600px){.footer{padding-top:35px;}.top{display:grid;grid-template-columns:1fr auto;gap:25px;>p{font-size:15px;grid-column:1;}nav{grid-column:1;margin:0;} >a:last-child{grid-column:2;grid-row:1;}}.brand{font-size:40px;svg{width:35px;}}.bottom{flex-direction:column;gap:8px;font-size:8px;}}
